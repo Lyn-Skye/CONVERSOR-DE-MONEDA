@@ -1,19 +1,13 @@
 package com.aluracursos.ConversorDeMoneda.modelos;
 
-public record Monedas(double ARS, double BRL, double COP, double MXN, double JPY) {
+public record Monedas(String result, double conversion_rate, double conversion_result) {
+
+    @Override
+    public String toString() {
+        return "Resultado: " + result + "\nTasa de conversión: " + conversion_rate + "\nEl resultado de la conversión es: " + conversion_result;
+    }
 }
 
-/*
-dolar > peso argentino
-peso argentino > dolar
-dolar > real brasileño
-real brasileño > dolar
-dolar > peso colombiano
-peso colombiano > dolar
-dolar > peso mexicano
-peso mexicno > dolar
-dolar > yen
-yen > dolar
- */
+
 
 
