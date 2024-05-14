@@ -10,7 +10,7 @@ Imagen obtenida de <a href="https://www.flaticon.es/iconos-gratis/balanza" title
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) 
 
 
-###Opciones del menú
+### Opciones del menú
 
                 Bienvenido al conversor de Monedas =]
                 
@@ -29,5 +29,5 @@ Imagen obtenida de <a href="https://www.flaticon.es/iconos-gratis/balanza" title
                 11) Salir.
 
 
-###Nota importante
+### Nota importante
 Se tiene un número limitado de usos ya que es una API con acceso, gratuita, por lo que si se obtiene un error de llave, significa que se han agotado los usos.
