@@ -31,5 +31,3 @@ Imagen obtenida de <a href="https://www.flaticon.es/iconos-gratis/balanza" title
 
 ###Nota importante
 Se tiene un número limitado de usos ya que es una API con acceso, gratuita, por lo que si se obtiene un error de llave, significa que se han agotado los usos.
-
-`
