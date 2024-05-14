@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e625aa5b-cdb7-4fb3-b32b-b9ee0f973583" name="Changes" comment="En clase main&#10;  -Hice el menú cíclico con un While&#10;  -Agregué el swtich para las opciones&#10;  -Agregué las funciones de leer teclado&#10;  -Agregué el crear el objeto monedas&#10;  -Agregué el imprimir resultados de la conversión&#10;  -Agregué una pausa de 5s en cada ciclo&#10;  -Borré 2 import&#10;  &#10;En la clase Monedas.java&#10;  -Cambié el tipo de datos que recibe Monedas.java&#10;  -Edité el toString de default para imprimir resultado&#10;   de la conversión&#10;   &#10;La clase BuscaTasaDeCambio.java fue eliminada&#10;&#10;La clase Conversor.java&#10;  -Decidí cambiar la url de la API para que el JSON&#10;   ya descargado incluyera la conversión y así borré la&#10;   clase tasa de cambio&#10;  -El resto de la función se mantuvo intacta&#10;  -Borré todos los comentarios&#10;  &#10; ************************************************">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/ConversorDeMoneda/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/ConversorDeMoneda/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/ConversorDeMoneda/modelos/Conversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/ConversorDeMoneda/modelos/Conversor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/ConversorDeMoneda/modelos/Monedas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/ConversorDeMoneda/modelos/Monedas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,7 @@
   "keyToString": {
     "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Lyn Skye/Documents/Oracle/DESAFIO/CONVERSOR DE MONEDA",
@@ -115,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715312849196</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="En clase main&#10;  -Hice el menú cíclico con un While&#10;  -Agregué el swtich para las opciones&#10;  -Agregué las funciones de leer teclado&#10;  -Agregué el crear el objeto monedas&#10;  -Agregué el imprimir resultados de la conversión&#10;  -Agregué una pausa de 5s en cada ciclo&#10;  -Borré 2 import&#10;  &#10;En la clase Monedas.java&#10;  -Cambié el tipo de datos que recibe Monedas.java&#10;  -Edité el toString de default para imprimir resultado&#10;   de la conversión&#10;   &#10;La clase BuscaTasaDeCambio.java fue eliminada&#10;&#10;La clase Conversor.java&#10;  -Decidí cambiar la url de la API para que el JSON&#10;   ya descargado incluyera la conversión y así borré la&#10;   clase tasa de cambio&#10;  -El resto de la función se mantuvo intacta&#10;  -Borré todos los comentarios&#10;  &#10; ************************************************">
+      <option name="closed" value="true" />
+      <created>1715313098375</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715313098375</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
